@@ -1,0 +1,16 @@
+body{
+  background-color: pink;
+}
+h1{
+  color:BCCEF8;
+}
+h3{
+  color: BCCEF8;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}
